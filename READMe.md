@@ -7,3 +7,8 @@ creating a github project inorder to push or pull the files in company.sey5jsydt
 
 
 hi git hub
+
+
+# local development
+
+1.open index hrtml in your browser
